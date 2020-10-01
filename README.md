@@ -20,6 +20,7 @@ Week 2: 26,23,22,22,14
 
 Week 3: 17,19,13,16,17
 
+![Table](https://cdn.upgrad.com/UpGrad/temp/6cd1e9a9-e35c-4d45-9ae1-c11c90245e26/Assignment.png)
 
 As you can see, moving average uses the past data to smoothen the price curve. For the purpose of this assignment, you will be using 20 day and 50 day moving averages.
 
