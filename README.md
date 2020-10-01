@@ -5,6 +5,7 @@ With the help of the following SQL code, a buy, sell or hold signal will be gene
 
 In this project, data of companies like Bajaj Auto, Eicher Motors, Hero Motocorp, Infosys, TCS, TVS is used for the analysis.
 
+![Stock Market](https://api.time.com/wp-content/uploads/2020/03/stock-market-coronavirus-2.jpg)
 
 ## Problem Statement
 Two of India's biggest stock exchanges BSE and NSE, collectively clear trades combining to greater than 40,000 crores every day. As you might already be aware, a lot of trading happens on the basis of technical and fundamental analysis.
@@ -19,7 +20,6 @@ Week 2: 26,23,22,22,14
 
 Week 3: 17,19,13,16,17
 
-![Table](https://cdn.upgrad.com/UpGrad/temp/6cd1e9a9-e35c-4d45-9ae1-c11c90245e26/Assignment.png)
 
 As you can see, moving average uses the past data to smoothen the price curve. For the purpose of this assignment, you will be using 20 day and 50 day moving averages.
 
